@@ -25,6 +25,7 @@
     height="30"
   />
 
+##### 아이콘 출처
 ##### <a href="https://www.flaticon.com/kr/free-icons/-" title="자바 스크립트 아이콘">자바 스크립트 아이콘 제작자: Freepik - Flaticon</a>
 ##### <a href="https://www.flaticon.com/kr/free-icons/c-" title="c 아이콘">C# 아이콘 제작자: Freepik - Flaticon</a>
 ##### <a href="https://www.flaticon.com/kr/free-icons/nodejs" title="nodejs 아이콘">Nodejs 아이콘 제작자: Freepik - Flaticon</a>

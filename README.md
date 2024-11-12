@@ -20,8 +20,7 @@
     height="30"
   />
    <img
-    src="![image](https://github.com/user-attachments/assets/13e855db-7afa-4957-8860-3cb52c5889d1)
-"
+    src="https://github.com/user-attachments/assets/13e855db-7afa-4957-8860-3cb52c5889d1"
     width="30"
     height="30"
   />

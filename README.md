@@ -24,6 +24,11 @@
     width="30"
     height="30"
   />
+   <img
+    src="https://github.com/user-attachments/assets/8434c95c-26a7-477d-ab41-6164260a6ce0"
+    width="30"
+    height="30"
+  />
 
 ##### 아이콘 출처
 ##### <a href="https://www.flaticon.com/kr/free-icons/-" title="자바 스크립트 아이콘">자바 스크립트 아이콘 제작자: Freepik - Flaticon</a>

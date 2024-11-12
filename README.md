@@ -11,12 +11,19 @@
 
 <img
     src="https://github.com/user-attachments/assets/ae829056-768b-41cd-96b1-e2dbd4e7a565"
-    width="600"
-    height="120"
+    width="30"
+    height="30"
   />
-![image](https://github.com/user-attachments/assets/ae829056-768b-41cd-96b1-e2dbd4e7a565) 
-![image](https://github.com/user-attachments/assets/6bf52f15-7dde-4014-af9a-7cfe6aa0ad59) 
-![image](https://github.com/user-attachments/assets/14ba716f-61a6-4bc7-a86a-ab1f8488bebb)
+<img
+    src="https://github.com/user-attachments/assets/6bf52f15-7dde-4014-af9a-7cfe6aa0ad59"
+    width="30"
+    height="30"
+  />
+<img
+    src="https://github.com/user-attachments/assets/14ba716f-61a6-4bc7-a86a-ab1f8488bebb"
+    width="30"
+    height="30"
+  />
 
 
 <a href="https://www.flaticon.com/kr/free-icons/-" title="자바 스크립트 아이콘">자바 스크립트 아이콘 제작자: Freepik - Flaticon</a>

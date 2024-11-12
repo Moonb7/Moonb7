@@ -24,13 +24,11 @@
     width="40"
     height="40"
   />
-
   <img
     src="https://github.com/user-attachments/assets/40e16039-3685-4775-a6e2-515080a8e9d3"
     width="40"
     height="40"
   />
-  
   <img
     src="https://github.com/user-attachments/assets/6bf52f15-7dde-4014-af9a-7cfe6aa0ad59"
     width="40"
